@@ -1,4 +1,4 @@
- # Hi, Im Sneha Suresh 👋👨🏻‍💻
+ # Hi, I'm Sneha Suresh 👋👨🏻‍💻
 
 ## 💫 About Me:
 
