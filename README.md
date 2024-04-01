@@ -3,17 +3,13 @@
 ## 💫 About Me:
 
 * 🔭 I’m currently working on [formsflow.ai](https://formsflow.ai/)
-* 🌱 I’m currently learning **OpenShift,RPA,Quarkus**
+* 🌱 I’m currently learning **OCP JAVA 17,Microservice in Action,Spring in Action**
 * 💬 Ask me about **Java,SpringBoot**
 
 ##
 
 [![@snehasuresh973's Holopin board](https://holopin.me/snehasuresh973)](https://holopin.io/@snehasuresh973)
 
-
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SnehaSuresh-aot&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SnehaSuresh-aot&theme=graywhite&hide_border=false)<br/>
 
 ## Tools and Technologies:
 
